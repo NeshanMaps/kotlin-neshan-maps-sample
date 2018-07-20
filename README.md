@@ -1,7 +1,7 @@
 # Kotlin Neshan Maps Sample
-## A Kotlin sample application based on Neshan maps platform Android SDK.
+## A Kotlin sample application based on Neshan Maps Android SDK.
 
-### Getting started with Neshan map SDK
+### Getting started with Neshan Maps SDK
 
 
 #### 0) Get neshan.licence file  
