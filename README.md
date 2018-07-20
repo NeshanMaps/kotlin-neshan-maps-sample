@@ -2,12 +2,14 @@
 ## A Kotlin sample application based on Neshan maps platform Android SDK.
 
 ### Getting started with Neshan map SDK
+
+
 #### 0) Get neshan.licence file  
 To create a licence file you need :  
-**Package Name** : The packag name of the application you want to use SDK in.  
-**SH1 fingerprint** : SH1 fingerprints from your required apk sign keys. (Release key, debug key, etc)  
+- Package Name : The packag name of the application you want to use SDK in.  
+- SH1 fingerprint : SH1 fingerprints from your required apk sign keys. (Release key, debug key, etc)  
 
-[REGISER](https://developer.neshan.org)
+[REGISTER](https://developer.neshan.org)
 
 
 #### 1) Installing SDK
@@ -18,7 +20,7 @@ Add maven repository to your project level `build.gradle`
 repositories {
     //add maven repo here
     maven { url "https://dl.bintray.com/neshan/neshan-android-sdk" }
-    }
+}
 ```
 
 Add to `build.gradle` module app
@@ -96,4 +98,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 #### 6) Run the Android app with smile :)
+
+
+
+
+[logo]: https://github.com/NeshanMaps/kotlin-neshan-maps-sample/blob/master/app/src/main/res/drawable-xxxhdpi/ic_neshan_logo.png
 
